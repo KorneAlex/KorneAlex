@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KorneAlex
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Alex
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to get examples of tasks that will help me to learn how to code
 
 <!---
