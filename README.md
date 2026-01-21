@@ -62,11 +62,10 @@
 ![Telegram-bot](https://img.shields.io/badge/Telegram--bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## GitHub Stats
-<div>
-  <div>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KorneAlex&theme=dark&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=KorneAlex&theme=dark&hide_border=false">
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorneAlex&theme=dark&layout=compact">
+<div align="center">
+  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=KorneAlex&theme=dark&hide_border=false">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorneAlex&theme=dark&layout=compact">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KorneAlex&theme=dark&hide_border=false">
 </div>
+
 
