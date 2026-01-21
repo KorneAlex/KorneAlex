@@ -63,8 +63,8 @@
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=KorneAlex&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=KorneAlex&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KorneAlex&theme=dark&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=KorneAlex&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KorneAlex&icon=0&color=0)](https://visitcount.itsvg.in)
