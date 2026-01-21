@@ -7,14 +7,15 @@
 ## About
 - Active Linux user, curious about technology and improving quality of life for everyone
 - I focus on understanding systems by building, breaking, and fixing them
-- I belive that AI is a tool, not a threat. We should get as much use of it as possible to make work easier and learn efficiently
+- I believe that AI is a tool, not a threat. We should get as much use out of it as possible to make work easier and learn more efficiently
 
 ## Interests
-- Linux and server administration  
-- Raspberry Pi and embedded systems  
-- Home Assistant, Zigbee, MQTT  
-- Networking and system services  
-- Web development (HTML, CSS, 11ty, Handlebars)
+- Linux and open-source software  
+- Raspberry Pi, microcontrollers, and other IoT devices
+- Home Assistant, Zigbee, MQTT
+- UI design and creating user-oriented products
+- Web development (HTML, CSS, Handlebars, JS, TS, web apps, etc.)
+- I enjoy fixing things (I wish the success rate was higher)
   
 ## Tech Stack
 ### Programming
