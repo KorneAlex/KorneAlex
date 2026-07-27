@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <div align="center">
-<h4>IT Support | SETU Student &nbsp &nbsp</h4>
+<h4>DevOps Intern | SETU Student &nbsp &nbsp</h4>
 <h4><a href="https://www.linkedin.com/in/oleksandr-korniienko-4760991ba">Linkdln</a> | <a href="https://www.hackerrank.com/profile/KorneAlex">HackerRank</a></h4>
 </div>
 
